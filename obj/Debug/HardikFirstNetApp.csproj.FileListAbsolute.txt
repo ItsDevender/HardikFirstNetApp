@@ -1,0 +1,9 @@
+C:\Users\devenderpratap.singh\source\repos\HardikFirstNetApp\bin\Debug\HardikFirstNetApp.exe.config
+C:\Users\devenderpratap.singh\source\repos\HardikFirstNetApp\bin\Debug\HardikFirstNetApp.exe
+C:\Users\devenderpratap.singh\source\repos\HardikFirstNetApp\bin\Debug\HardikFirstNetApp.pdb
+C:\Users\devenderpratap.singh\source\repos\HardikFirstNetApp\obj\Debug\HardikFirstNetApp.Form1.resources
+C:\Users\devenderpratap.singh\source\repos\HardikFirstNetApp\obj\Debug\HardikFirstNetApp.Properties.Resources.resources
+C:\Users\devenderpratap.singh\source\repos\HardikFirstNetApp\obj\Debug\HardikFirstNetApp.csproj.GenerateResource.cache
+C:\Users\devenderpratap.singh\source\repos\HardikFirstNetApp\obj\Debug\HardikFirstNetApp.csproj.CoreCompileInputs.cache
+C:\Users\devenderpratap.singh\source\repos\HardikFirstNetApp\obj\Debug\HardikFirstNetApp.exe
+C:\Users\devenderpratap.singh\source\repos\HardikFirstNetApp\obj\Debug\HardikFirstNetApp.pdb
